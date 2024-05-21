@@ -299,5 +299,12 @@
     "tag": ["Games"],
     "logo": "divvybet.png",
     "href": "https://divvy.bet/"
-  }
+  },
+  {
+    "name": "Photo Finish Live",
+    "subname": "Games",
+    "tag": ["Games"],
+    "logo": "PhotoFinishLive.png",
+    "href": "https://photofinish.live/"
+  },
 ]
